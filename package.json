@@ -1,0 +1,25 @@
+{
+  "name": "vscode-eslint-test",
+  "version": "1.0.0",
+  "description": "reproduce a bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfabriece/vscode-eslint-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfabriece/vscode-eslint-test/issues"
+  },
+  "homepage": "https://github.com/sfabriece/vscode-eslint-test#readme",
+  "devDependencies": {
+    "eslint": "4.13.1",
+    "eslint-config-hapi": "11.1.0",
+    "eslint-plugin-hapi": "4.1.0"
+  }
+}
